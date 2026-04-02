@@ -4,7 +4,7 @@ determine:
 a) A soma dos valores positivos; 
 b) A quantidade de valores negativos.
 """
-
+# teste do github
 soma_positivos = 0
 quantidade_negativos = 0
 lista_numeros = []
