@@ -83,7 +83,7 @@ print( f"A média da prova de Portugues foi {media_prova_portugues:.2f}")
 
 print()
 print("-" * 80)
-print( f"Candidatos com média maior que 4.5 e nota de Conhecimentos Geral maior que 6,0: {numero_candidatos_media_conhecimentos_gerais}" ) 
+print( f"Candidatos com média maior que 4.5 e nota de Conhecimentos Geral maior que 6,0 {numero_candidatos_media_conhecimentos_gerais}" ) 
 
 print()
 print("-" * 80)
