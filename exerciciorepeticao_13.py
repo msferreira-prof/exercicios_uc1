@@ -9,11 +9,12 @@ class Candidato:
         self.situacao = "Reprovado"
 
     def __str__(self):
-        return f"{nome}"
+        return f"{self.nome}"
     
 # programa principal
 candidatos = []
 
+# entrada
 continua = 0
 while continua == 0:
     nome = input("Informe o nome do candidato: ")
